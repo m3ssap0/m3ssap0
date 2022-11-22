@@ -8,7 +8,3 @@
 # My profiles
 * [LinkedIn](https://www.linkedin.com/in/antoniofrancescosardella)
 * <a rel="me" href="https://infosec.exchange/@m3ssap0">Mastodon - infosec.exchange</a>
-
-# Useful repositories
-* [CTF Writeups](https://github.com/m3ssap0/CTF-Writeups)
-* [CVE-2017-8046 "Spring Break" exploit](https://github.com/m3ssap0/spring-break_cve-2017-8046)
