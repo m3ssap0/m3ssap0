@@ -7,7 +7,7 @@
 
 # My profiles
 * [LinkedIn](https://www.linkedin.com/in/antoniofrancescosardella)
-* [Mastodon - infosec.exchange](https://infosec.exchange/@m3ssap0)
+* <a rel="me" href="https://infosec.exchange/@m3ssap0">Mastodon - infosec.exchange</a>
 
 # Useful repositories
 * [CTF Writeups](https://github.com/m3ssap0/CTF-Writeups)
