@@ -1,16 +1,14 @@
-### Hi there 👋
+# About
 
-<!--
-**m3ssap0/m3ssap0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* AppSec Engineer
+* Security Engineering Manager
+* Organizer of [Meethack Torino](https://www.meetup.com/it-IT/meethack/)
+* CTF player with [BullSoc](https://ctftime.org/team/80532)
 
-Here are some ideas to get you started:
+# My profiles
+* [LinkedIn](https://www.linkedin.com/in/antoniofrancescosardella)
+* [Mastodon - infosec.exchange](https://infosec.exchange/@m3ssap0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Useful repositories
+* [CTF Writeups](https://github.com/m3ssap0/CTF-Writeups)
+* [CVE-2017-8046 "Spring Break" exploit](https://github.com/m3ssap0/spring-break_cve-2017-8046)
