@@ -2,10 +2,11 @@
 
 * AppSec Engineer
 * Security Engineering Manager
-* Organizer of [Meethack Torino](https://www.meetup.com/it-IT/meethack/)
-* CTF player with [BullSoc](https://ctftime.org/team/80532)
+* Organizer of [Meethack](https://meethack.it) (Torino)
+* CTF player with [BullSoc](https://ctftime.org/team/80532) and [Meethack](https://ctftime.org/team/299713)
 
 # My profiles
+
 * [Website](https://m3ssap0.github.io)
 * [GitHub](https://github.com/m3ssap0)
 * [LinkedIn](https://www.linkedin.com/in/antoniofrancescosardella)
