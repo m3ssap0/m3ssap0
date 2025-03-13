@@ -11,4 +11,5 @@
 * [GitHub](https://github.com/m3ssap0)
 * [LinkedIn](https://www.linkedin.com/in/antoniofrancescosardella)
 * [Mastodon (infosec.exchange)](https://infosec.exchange/@m3ssap0)
+* [Wordfence](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/antonio-francesco-sardella)
 * [Exploit-DB](https://www.exploit-db.com/?author=9361)
